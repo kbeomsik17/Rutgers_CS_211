@@ -1,0 +1,9 @@
+1
+EMPTY
+EMPTY
+EMPTY
+EMPTY
+2
+3 2
+4 3 2
+3 2
