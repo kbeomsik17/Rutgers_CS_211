@@ -1,0 +1,10 @@
+290
+The quick brown fox jumps over the lazy dog.
+The moon unit will be dividyd into two divisions.
+1 4 5 9 14 23
+1 105
+80 4
+0 54
+5 1 2 4 6 3
+620
+
